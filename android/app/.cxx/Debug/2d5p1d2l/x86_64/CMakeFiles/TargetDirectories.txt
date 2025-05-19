@@ -1,0 +1,2 @@
+D:/File Tugas Sem 4/Tekmob/Prak 3 tekmob/tm-codelab-1-amajon/android/app/.cxx/Debug/2d5p1d2l/x86_64/CMakeFiles/edit_cache.dir
+D:/File Tugas Sem 4/Tekmob/Prak 3 tekmob/tm-codelab-1-amajon/android/app/.cxx/Debug/2d5p1d2l/x86_64/CMakeFiles/rebuild_cache.dir
