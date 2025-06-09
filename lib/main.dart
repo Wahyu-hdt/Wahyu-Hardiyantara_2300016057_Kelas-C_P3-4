@@ -72,34 +72,36 @@ class ECommerceScreen extends StatelessWidget {
                         Row(
                           children: const [
                             Icon(
-                              Icons.discount,
+                              Icons.discount_outlined,
                               color: Colors.red,
-                              size: 24.0,
+                              size: 20.0,
                             ),
                             SizedBox(width: 4.0),
                             Text(
                               'Diskon 50%',
                               style: TextStyle(
-                                fontWeight: FontWeight.w700,
-                                color: Colors.red,
-                              ),
+                                  fontSize: 10,
+                                  fontWeight: FontWeight.w700,
+                                  color: Colors.red,
+                                  fontStyle: FontStyle.italic),
                             ),
                           ],
                         ),
                         Row(
                           children: const [
                             Icon(
-                              Icons.local_shipping,
+                              Icons.airport_shuttle_outlined,
                               color: Colors.green,
-                              size: 24.0,
+                              size: 20.0,
                             ),
                             SizedBox(width: 4.0),
                             Text(
-                              'Gratis Ongkir',
+                              'Gratis Ongkir Seluruh Indonesia',
                               style: TextStyle(
-                                fontWeight: FontWeight.w700,
-                                color: Colors.green,
-                              ),
+                                  fontSize: 10,
+                                  fontWeight: FontWeight.w700,
+                                  color: Colors.green,
+                                  fontStyle: FontStyle.italic),
                             ),
                             const SizedBox(
                               height: 40.0,
@@ -139,9 +141,9 @@ class ECommerceScreen extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: <Widget>[
                     const Text(
-                      'Sepatu Running',
+                      'Ortuseight Hyperblast Running',
                       style: TextStyle(
-                        fontSize: 18.0,
+                        fontSize: 15.0,
                         fontWeight: FontWeight.bold,
                       ),
                     ),
@@ -268,9 +270,9 @@ class ECommerceScreen extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: <Widget>[
                     const Text(
-                      'Tas Ransel',
+                      'Eiger Wanderpath Backpack',
                       style: TextStyle(
-                        fontSize: 18.0,
+                        fontSize: 15.0,
                         fontWeight: FontWeight.bold,
                       ),
                     ),
